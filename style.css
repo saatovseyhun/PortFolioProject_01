@@ -8,7 +8,7 @@
 .hero {
   height: 100vh;
   width: 100%;
-  background-image: url(../Portfolio/istockphoto-1332097112-170667a.jpg);
+  background-image: url(./istockphoto-1332097112-170667a.jpg);
   background-size: cover;
   background-position: center;
 }
